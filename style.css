@@ -1,0 +1,11 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 38px;
+text-align: center;
+letter-spacing: 2px;
+} 
+
+body {
+    background-image: url(photo.jpg);
+    background-size: 1500px;
+} 
