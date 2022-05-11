@@ -6,6 +6,16 @@ letter-spacing: 2px;
 } 
 
 body {
-    background-image: url(photo.jpg);
+    background-image: url(photo1.jpg);
     background-size: 1500px;
+    
 } 
+p { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+img { 
+    width: 100px;
+    border-radius: 50px;
+    text-align: center; 
+}
