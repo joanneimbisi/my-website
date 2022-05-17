@@ -1,4 +1,4 @@
-h1 {
+.title {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 38px;
 text-align: center;
@@ -15,7 +15,13 @@ p {
     text-align: center;
 }
 img { 
-    width: 100px;
-    border-radius: 50px;
-    text-align: center; 
+    width: 150px;
+    border-radius: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.header:hover{  color:gray;
+
 }
