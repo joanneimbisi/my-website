@@ -6,11 +6,11 @@ letter-spacing: 2px;
 } 
 
 body {
-    background-image: url(photo1.jpg);
+    background-color: #AF9A89;
     background-size: 1500px;
     
 } 
-p { 
+* { 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
@@ -59,4 +59,13 @@ p {
     text-align: center;
     padding: 100px;
     width:50%
+
+
+}
+.logo {
+    width: 100px;
+    height: auto;
+    position: absolute;
+top: 0px;
+right: 0px;
 }
