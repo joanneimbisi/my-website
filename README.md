@@ -1,1 +1,2 @@
 # My Personal Website
+Hello, welcome to my very first personal website! Here I give you an insight of my journey to becoming a developer, my thoughts on life and choosing a fulfilling path, and my goals upon completing the program. 
